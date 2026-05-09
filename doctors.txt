@@ -1,0 +1,7 @@
+John,Smith,Internal Med.
+Jone,Smith,Pediatrics
+Jone,Carlos,Cardiology
+Binod Chaudhary,Chaudhary,Opthalogists
+Kashish,Shrestha,DEntist
+Preshna ,Shrestha,Surgen
+Ashish ,Shrestha,Surgen
